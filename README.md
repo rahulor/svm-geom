@@ -29,4 +29,4 @@ clf.width_            # width of the margin
 clf.message           # string message indicating success or failure of the computation.
 ```
 
-[I'm a relative reference to a repository file](sample_output.md)
+[Sample output](sample_output.md)
