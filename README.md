@@ -1,4 +1,4 @@
-
+![svm](doc/fig/circles_margin.png)
 # Motivation
 An iterative algorithm that makes use of elementary geometry to find the maximal margin hyperplane between two classes.
 
