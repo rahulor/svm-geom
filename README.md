@@ -27,6 +27,7 @@ clf.support_vectors_  # support vectors  i.e., x satisfying  <weight, x> + bias 
 clf.support_          # indices of the support vectors in X
 clf.width_            # width of the margin
 clf.message           # string message indicating success or failure of the computation.
+clf.success           # bool (True or False) indicating success or failure of the computation.
 ```
 
 [Sample output](sample_output.md)
