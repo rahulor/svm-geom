@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7527656.svg)](https://doi.org/10.5281/zenodo.7527656)
+## Support vector machine algorithm for separable data using elementary geometry
 ![svm](doc/fig/circles_margin.png)
 # Motivation
 An iterative algorithm that makes use of elementary geometry to find the maximal margin hyperplane between two classes.
